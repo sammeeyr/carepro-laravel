@@ -1,4 +1,4 @@
-//About SkoolCarePro
+# About SkoolCarePro
 
 SkoolCarePro is a daycare management SAAS application build on Laravel and VueJS
 
