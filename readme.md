@@ -1,6 +1,6 @@
-## About TykCare
+//About SkoolCarePro
 
-TykCare is a daycare management SAAS application build on Laravel and VueJS
+SkoolCarePro is a daycare management SAAS application build on Laravel and VueJS
 
 ## Features
 
